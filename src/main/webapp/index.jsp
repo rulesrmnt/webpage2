@@ -13,7 +13,7 @@
     <!--[if IE]>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <![endif]-->
-    <title>AWESOME BOOTSTRAP TEMPLATE - BIWAS </title>
+    <title>AWESOME BOOTSTRAP TEMPLATE - Rahul </title>
     <!--REQUIRED STYLE SHEETS-->
     <!-- BOOTSTRAP CORE STYLE CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
@@ -54,8 +54,8 @@
         <a href="#">Call: +01-099-908-908</a>
         <a href="#main-sec"><i class="fa fa-home fa-3x"></i>HOME</a>
         <a href="#about-sec"><i class="fa fa-microphone fa-3x"></i>ABOUT</a>
-        <a href="#price-sec"><i class="fa fa-dollar fa-3x"></i>PRICING</a>
-        <a href="#services-sec"><i class="fa fa-rocket fa-3x"></i>SERVICES</a>
+        <a href="#price-sec"><i class="fa fa-dollar fa-3x"></i>PRICING RANGE</a>
+        <a href="#services-sec"><i class="fa fa-rocket fa-3x"></i>SERVICES TYPE</a>
         <a href="#contact-sec"><i class="fa fa-globe fa-3x"></i>CONTACT</a>
     </nav>
 
@@ -69,7 +69,7 @@
     <!--RIGHT SLIDE MENU-->
     <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="cbp-spmenu-s2">
         <h3>SOCIAL</h3>
-        <a href="#">MY SOCIAL PRESENCE</a>
+        <a href="#">RAHUL SOCIAL PRESENCE</a>
         <a href="#"><i class="fa fa-facebook fa-3x"></i>Facebook</a>
         <a href="#"><i class="fa fa-twitter fa-3x"></i>Twitter</a>
         <a href="#"><i class="fa fa-linkedin fa-3x"></i>Linked In</a>
