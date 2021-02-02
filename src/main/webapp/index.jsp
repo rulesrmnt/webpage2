@@ -42,7 +42,7 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-8 col-md-offset-2 ">
-                    <h1 class="pad-adjust"><i class="fa fa-plus faa-pulse animated"></i>Biwas</h1>
+                    <h1 class="pad-adjust"><i class="fa fa-plus faa-pulse animated"></i>Rahul</h1>
                 </div>
             </div>
         </div>
@@ -50,7 +50,7 @@
     <!--END MAIN HEADING-->
     <!--LEFT SLIDE MENU-->
     <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s1">
-        <h3>BIWAS</h3>
+        <h3>RAHUL</h3>
         <a href="#">Call: +01-099-908-908</a>
         <a href="#main-sec"><i class="fa fa-home fa-3x"></i>HOME</a>
         <a href="#about-sec"><i class="fa fa-microphone fa-3x"></i>ABOUT</a>
