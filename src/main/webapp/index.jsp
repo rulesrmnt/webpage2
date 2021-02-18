@@ -13,7 +13,7 @@
     <!--[if IE]>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <![endif]-->
-    <title>AWESOME BOOTSTRAP TEMPLATE - Rahul </title>
+    <title>AWESOME BOOTSTRAP TEMPLATE - Rahul Ranjan </title>
     <!--REQUIRED STYLE SHEETS-->
     <!-- BOOTSTRAP CORE STYLE CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
@@ -42,7 +42,7 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-8 col-md-offset-2 ">
-                    <h1 class="pad-adjust"><i class="fa fa-plus faa-pulse animated"></i>Rahul</h1>
+                    <h1 class="pad-adjust"><i class="fa fa-plus faa-pulse animated"></i>Rahul Ranjan</h1>
                 </div>
             </div>
         </div>
@@ -54,7 +54,7 @@
         <a href="#">Call: +01-099-908-908</a>
         <a href="#main-sec"><i class="fa fa-home fa-3x"></i>HOME</a>
         <a href="#about-sec"><i class="fa fa-microphone fa-3x"></i>ABOUT</a>
-        <a href="#price-sec"><i class="fa fa-dollar fa-3x"></i>PRICING RANGE</a>
+        <a href="#price-sec"><i class="fa fa-dollar fa-3x"></i>PRICING RANGE RAHUL SET</a>
         <a href="#services-sec"><i class="fa fa-rocket fa-3x"></i>SERVICES TYPE</a>
         <a href="#contact-sec"><i class="fa fa-globe fa-3x"></i>CONTACT</a>
     </nav>
