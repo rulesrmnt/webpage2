@@ -54,7 +54,7 @@
         <a href="#">Call: +01-099-908-908</a>
         <a href="#main-sec"><i class="fa fa-home fa-3x"></i>HOME</a>
         <a href="#about-sec"><i class="fa fa-microphone fa-3x"></i>ABOUT</a>
-        <a href="#price-sec"><i class="fa fa-dollar fa-3x"></i>PRICING RANGE RAHUL SET</a>
+        <a href="#price-sec"><i class="fa fa-dollar fa-3x"></i>PRICING RANGE</a>
         <a href="#services-sec"><i class="fa fa-rocket fa-3x"></i>SERVICES TYPE</a>
         <a href="#contact-sec"><i class="fa fa-globe fa-3x"></i>CONTACT</a>
     </nav>
@@ -131,25 +131,25 @@
                     <div class="col-md-3 col-sm-3 col-xs-6">
                         <div class="team-member">
                             <img src="assets/img/team/1.png" alt="">
-                            <h3><strong>ANDREWA ALEX </strong></h3>
+                            <h3><strong>FUZAIL SHAIKH </strong></h3>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-3 col-xs-6">
                         <div class="team-member">
                             <img src="assets/img/team/2.png" alt="">
-                            <h3><strong>ROMILIA JHON </strong></h3>
+                            <h3><strong>VIVEK KUMAR </strong></h3>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-3 col-xs-6">
                         <div class="team-member">
                             <img src="assets/img/team/3.png" alt="">
-                            <h3><strong>TINA WAY LEU </strong></h3>
+                            <h3><strong>ALOK RANJAN </strong></h3>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-3 col-xs-6">
                         <div class="team-member">
                             <img src="assets/img/team/4.png" alt="">
-                            <h3><strong>JHON DEO ALEX </strong></h3>
+                            <h3><strong>NIKESH KUMAR </strong></h3>
                         </div>
                     </div>
 
